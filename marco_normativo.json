@@ -1,0 +1,19 @@
+{
+    "marco_normativo": [{
+            "nombre": "Reglamento Interno",
+            "url": "https://tu-dominio.com/docs/reglamento_interno.pdf"
+        },
+        {
+            "nombre": "Ley de Puertos",
+            "url": "https://tu-dominio.com/docs/codigo_etica.pdf"
+        },
+        {
+            "nombre": "Ley Aduanera",
+            "url": "https://tu-dominio.com/docs/codigo_etica.pdf"
+        },
+        {
+            "nombre": "Agenda 2025",
+            "url": "https://tu-dominio.com/docs/codigo_etica.pdf"
+        }
+    ]
+}

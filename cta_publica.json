@@ -1,0 +1,19 @@
+{
+    "cuenta_publica": [{
+            "nombre": "Cuenta Pública 2025",
+            "anio": 2025,
+            "url": "https://tu-dominio.com/docs/cuenta_publica_2017.pdf"
+        },
+        {
+            "nombre": "Cuenta Pública 2024",
+            "anio": 2024,
+            "url": "https://tu-dominio.com/docs/cuenta_publica_2018.pdf"
+        },
+        {
+            "nombre": "Cuenta Pública 2023",
+            "anio": 2021,
+            "url": "https://tu-dominio.com/docs/cuenta_publica_2019.pdf"
+        }
+        
+    ]
+}

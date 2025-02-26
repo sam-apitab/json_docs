@@ -1,0 +1,86 @@
+{
+    "muebles_inmuebles": [{
+        "anio": "2019",
+        "semestre": [{
+            "semestre": "Primero",
+            "data": [{
+                    "tipo": "Muebles",
+                    "link": "Documento"
+                },
+                {
+                    "trimestre": "Primero",
+                    "tipo": "Inmuebles",
+                    "link": "Documento"
+                }
+            ]
+        }, {
+            "semestre": "Segundo",
+            "data": [{
+                    "tipo": "Muebles",
+                    "link": "Documento"
+                },
+                {
+                    "trimestre": "Primero",
+                    "tipo": "Inmuebles",
+                    "link": "Documento"
+                }
+            ]
+        }]
+    }, {
+        "anio": "2020",
+        "semestre": [{
+            "semestre": "Primero",
+            "data": [{
+                    "tipo": "Muebles",
+                    "link": "Documento"
+                },
+                {
+                    "trimestre": "Primero",
+                    "tipo": "Inmuebles",
+                    "link": "Documento"
+                }
+            ]
+        }, {
+            "semestre": "Segundo",
+            "data": [{
+                    "tipo": "Muebles",
+                    "link": "Documento"
+                },
+                {
+                    "trimestre": "Primero",
+                    "tipo": "Inmuebles",
+                    "link": "Documento"
+                }
+            ]
+        }]
+    },
+        {
+        "anio": "2021",
+        "semestre": [{
+            "semestre": "Primero",
+            "data": [{
+                    "tipo": "Muebles",
+                    "link": "Documento"
+                },
+                {
+                    "trimestre": "Primero",
+                    "tipo": "Inmuebles",
+                    "link": "Documento"
+                }
+            ]
+        }, {
+            "semestre": "Segundo",
+            "data": [{
+                    "tipo": "Muebles",
+                    "link": "Documento"
+                },
+                {
+                    "trimestre": "Primero",
+                    "tipo": "Inmuebles",
+                    "link": "Documento"
+                }
+            ]
+        }]
+    }
+    ]
+}
