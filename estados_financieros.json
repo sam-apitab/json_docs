@@ -79,33 +79,7 @@
             }]
 
         },
-        {
-            "nombre": "Estados Financieros 2021",
-            "mes": [{
-                "mes": "Enero",
-                "docs": [{
-                    "anio": "2024",
-                    "name": "01.-EDO DE ACTIVIDADES",
-                    "link": "URL"
-                }, {
-                    "anio": "2024",
-                    "name": "01.-EDO DE ACTIVIDADES",
-                    "link": "URL"
-                }]
-            }, {
-                "mes": "Febrero",
-                "docs": [{
-                    "anio": "2024",
-                    "name": "01.-EDO DE ACTIVIDADES",
-                    "link": "URL"
-                }, {
-                    "anio": "2024",
-                    "name": "01.-EDO DE ACTIVIDADES",
-                    "link": "URL"
-                }]
-            }]
-
-        }
+       
     ]
 
 }
