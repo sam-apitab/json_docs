@@ -1,18 +1,130 @@
 {
     "marco_normativo": [{
-            "nombre": "Reglamento Interno",
-            "url": "https://tu-dominio.com/docs/reglamento_interno.pdf"
+            "nombre": "CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS",
+            "url": "https://apitab.com.mx/doctos_consulta/CONSTITUCION_POLITICA_DE_LOS_ESTADOS_UNIDOS_MEXICANOS.pdf"
         },
         {
-            "nombre": "Ley de Puertos",
+            "nombre": "LEY ADUANERA",
+            "url": "https://apitab.com.mx/doctos_consulta/LEY%20ADUANERA.pdf"
+        },
+        {
+            "nombre": "LEY DE PUERTOS",
+            "url": "https://apitab.com.mx/doctos_consulta/LEY_DE_PUERTOS.pdf"
+        },
+        {
+            "nombre": "LEY DE MOVILIDAD PARA EL ESTADO DE TABASCO",
+            "url": "https://apitab.com.mx/doctos_consulta/LEY_DE_MOVILIDAD_PARA_EL_ESTADO_DE_TABASCO.pdf"
+        },
+        {
+            "nombre": "LEY DE AGUAS NACIONALES",
+            "url": "https://apitab.com.mx/doctos_consulta/LEY_DE_AGUAS_NACIONALES.pdf"
+        },
+        {
+            "nombre": "REGLAMENTO DE LA LEY DE PUERTOS",
+            "url": "https://apitab.com.mx/doctos_consulta/REGLAMENTO_DE_LA_LEY_DE_PUERTOS.pdf"
+        },
+        {
+            "nombre": "REGLAMENTO DE LA LEY DE TRANSPORTES PARA EL ESTADO DE TABASCO",
             "url": "https://tu-dominio.com/docs/codigo_etica.pdf"
         },
         {
-            "nombre": "Ley Aduanera",
+            "nombre": "REGLAMENTO INTERIOR DE LA SECRETARÍA DE COMUNICACIONES Y TRANSPORTE",
+            "url": "https://apitab.com.mx/doctos_consulta/REGLAMENTO_INTERIOR_DE_LA_SECRETAR%C3%8DA_DE_COMUNICACIONES_Y_TRANSPORTE.pdf"
+        },
+        {
+            "nombre": "CÓDIGO INTERNACIONAL PARA LA PROTECCIÓN DE LOS BUQUES Y DE LAS INSTALACIONES PORTUARIAS (CÓDIGO PBIP)",
+            "url": "https://apitab.com.mx/doctos_consulta/CODIGO_PBIP.pdf"
+        },
+        {
+            "nombre": "CÓDIGO FISCAL DE LA FEDERACIÓN",
+            "url": "https://apitab.com.mx/doctos_consulta/CODIGO_FISCAL_DE_LA_FEDERACION.pdf"
+        },
+        {
+            "nombre": "CONVENCIÓN AMERICANA SOBRE DERECHOS HUMANOS (PACTO DE SAN JOSÉ DE COSTA RICA)",
+            "url": "https://apitab.com.mx/doctos_consulta/CONVENCION%20AMERICANA%20SOBRE%20DERECHOS%20HUMANOS%20(PACTO%20DE%20SAN%20JOS%C3%89%20%20DE%20COSTA%20RICA).pdf"
+        },
+        {
+            "nombre": "CONVENIO INTERNACIONAL PARA LA SEGURIDAD DE LA VIDA HUMANA EN EL MAR, 1974 (CONVENIO SOLAS)",
+            "url": "https://www.imo.org/es/About/Conventions/Pages/International-Convention-for-the-Safety-of-Life-at-Sea-(SOLAS)%2C-1974.aspx"
+        },
+        {
+            "nombre": "	AGENDA 2030",
             "url": "https://tu-dominio.com/docs/codigo_etica.pdf"
         },
         {
-            "nombre": "Agenda 2025",
+            "nombre": "CONSTITUCIÓN POLÍTICA DEL ESTADO DE TABASCO",
+            "url": "https://apitab.com.mx/doctos_consulta/CONSTITUCION_POLITICA_DEL_ESTADO_DE_TABASCO.pdf"
+        },
+        {
+            "nombre": "LEY ORGÁNICA DEL EJECUTIVO DEL ESTADO DE TABASCO",
+            "url": "https://apitab.com.mx/doctos_consulta/LEY%20%20ORGANICA%20DEL%20EJECUTIVO%20DEL%20ESTADO%20DE%20TABASCO.pdf"
+        },
+        {
+            "nombre": "LEY DE ADQUISICIONES, ARRENDAMIENTO Y PRESTACIONES DE SERVICIOS DEL ESTADO DE TABASCO",
+            "url": "https://apitab.com.mx/doctos_consulta/LEY%20DE%20ADQUISICIONES,%20ARRENDAMIENTO%20Y%20PRESTACIONES%20DE%20SERVICIOS%20DEL%20ESTADO%20DE%20TABASCO.pdf"
+        },
+        {
+            "nombre": "ACTA CONSTITUTIVA DE LA APITAB",
+            "url": "https://apitab.com.mx/doctos_consulta/ACTA_CONSTITUTIVA_APITAB_VPublica.pdf"
+        },
+        {
+            "nombre": "TÍTULO DE CONCESIÓN DE LA APITAB",
+            "url": "https://apitab.com.mx/doctos_consulta/TITULO_DE_CONCESION_DE_LA_APITAB_VPublica.pdf"
+        },
+        {
+            "nombre": "CONVENIO GENERAL DE COLABORACIÓN ACADÉMICA IAP/APITAB",
+            "url": "https://apitab.com.mx/doctos_consulta/Convenio_IAP.pdf"
+        },
+        {
+            "nombre": "PROGRAMA MAESTRO DE DESARROLLO PORTUARIO (PMDP) DE LA APITAB 2022",
+            "url": "https://apitab.com.mx/doctos_consulta/PMDP%20APITAB%202022.pdf"
+        },
+        {
+            "nombre": "CÓDIGO DE CONDUCTA DE LA APITAB",
+            "url": "https://apitab.com.mx/doctos_consulta/cconducta.pdf"
+        },
+        {
+            "nombre": "REGLAS DE OPERACIÓN DEL PUERTO DE FRONTERA",
+            "url": "https://apitab.com.mx/doctos_consulta/reglas_operacion_pf.pdf"
+        },
+        {
+            "nombre": "Programa Anual de Desarrollo Archivístico (PADA 2023) de la APITAB",
+            "url": "https://apitab.com.mx/doctos_consulta/Programa_Anual_Desarrollo_Archivistico(PADA2023)_APITAB.pdf"
+        },
+        {
+            "nombre": "Programa Anual de Desarrollo Archivístico (PADA 2024) de la APITAB",
+            "url": "https://apitab.com.mx/doctos_consulta/PADA_2024_APITAB.pdf"
+        },
+        {
+            "nombre": "Acta de Reunión del Sistema Institucional de Archivo de la APITAB",
+            "url": "https://apitab.com.mx/doctos_consulta/Acta_Reuni%C3%B3n_SIA_APITAB.pdf"
+        },
+        {
+            "nombre": "Manual de Contabilidad Gubernamental para el Estado de Tabasco y sus Municipios",
+            "url": "https://apitab.com.mx/doctos_consulta/mcgetm.pdf"
+        },
+        {
+            "nombre": "Programa Operativo Anual 2024",
+            "url": "https://apitab.com.mx/doctos_consulta/POAAPITAB2024Final.pdf"
+        },
+        {
+            "nombre": "Programa Operativo Anual 2024 Primer Trimestre",
+            "url": "https://tu-dominio.com/docs/codigo_etica.pdf"
+        },
+        {
+            "nombre": "Programa Operativo Anual 2024 Segundo Trimestre",
+            "url": "https://apitab.com.mx/doctos_consulta/APITABPOA20242doTrim.pdf"
+        },
+        {
+            "nombre": "Informe Anual PADA 2024",
+            "url": "https://apitab.com.mx/doctos_consulta/INFORME_ANUAL_PADA2024.pdf"
+        },
+        {
+            "nombre": "PADA 2025",
+            "url": "https://apitab.com.mx/doctos_consulta/PADA_2025.pdf"
+        },
+        {
+            "nombre": "Programa Operativo Anual 2024 Primer Trimestre",
             "url": "https://tu-dominio.com/docs/codigo_etica.pdf"
         }
     ]
